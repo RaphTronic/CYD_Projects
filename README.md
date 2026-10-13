@@ -2,7 +2,7 @@
 Miscellaneous projects involving the Cheap Yellow Display ESP32 board (enclosures, magnetometer...)
 
 Details and instructions in the following posts:
-* 2.8" Enclosures - USB-C only & All POrts / Features: 
+* 2.8" Enclosures - USB-C only & All POrts / Features: https://raphtronic.blogspot.com/2026/10/diy-cyd-cheap-yellow-display-28.html
 
 Feel free to copy, remix, whatever (non-commercially)
 
